@@ -1,0 +1,24 @@
+.second_ul{
+    background-color: yellow;
+}
+
+p:first-of-type{
+    color: red;
+    border: 5px solid purple;
+}
+
+.span1{
+    background-color: aqua;
+}
+
+div[class="first"]{
+    background-color: green;
+}
+
+#second{
+    color: pink;
+}
+
+.link{
+    background-color: yellow;
+}
